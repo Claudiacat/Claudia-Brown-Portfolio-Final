@@ -1,0 +1,31 @@
+.black-link {
+	font-weight: 600;
+	text-transform: uppercase;
+	padding-right: 50px;
+	color: #000;
+}
+
+.center {
+	text-align: center;
+}
+
+.mleft45px {
+	margin-left: 45px !important;
+}
+
+hr {
+	color: black; /*works in Chrome and Safari */
+	border-color: black; /*works in Firefox and Opera*/
+	background-color: black; /*color works in IE7+*/
+}
+
+a:hover {
+  color: red !important;
+}
+
+body {
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
